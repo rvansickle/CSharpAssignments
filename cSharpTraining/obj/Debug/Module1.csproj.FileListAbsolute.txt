@@ -1,0 +1,6 @@
+C:\Users\rvansickle\Documents\Visual Studio 2015\Projects\cSharpTraining\cSharpTraining\bin\Debug\Module1.exe.config
+C:\Users\rvansickle\Documents\Visual Studio 2015\Projects\cSharpTraining\cSharpTraining\obj\Debug\Module1.exe
+C:\Users\rvansickle\Documents\Visual Studio 2015\Projects\cSharpTraining\cSharpTraining\obj\Debug\Module1.pdb
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\cSharpTraining\bin\Debug\Module1.exe.config
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\cSharpTraining\obj\Debug\Module1.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\cSharpTraining\obj\Debug\Module1.pdb

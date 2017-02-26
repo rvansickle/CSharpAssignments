@@ -1,0 +1,6 @@
+C:\Users\rvansickle\documents\visual studio 2015\Projects\cSharpTraining\Module4\bin\Debug\Module4.exe.config
+C:\Users\rvansickle\documents\visual studio 2015\Projects\cSharpTraining\Module4\bin\Debug\Module4.exe
+C:\Users\rvansickle\documents\visual studio 2015\Projects\cSharpTraining\Module4\bin\Debug\Module4.pdb
+C:\Users\rvansickle\documents\visual studio 2015\Projects\cSharpTraining\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+C:\Users\rvansickle\documents\visual studio 2015\Projects\cSharpTraining\Module4\obj\Debug\Module4.exe
+C:\Users\rvansickle\documents\visual studio 2015\Projects\cSharpTraining\Module4\obj\Debug\Module4.pdb
