@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace cSharpModule1
+namespace Module1
 {
     class Module1
     {
