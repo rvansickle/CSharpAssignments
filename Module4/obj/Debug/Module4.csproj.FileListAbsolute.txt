@@ -10,3 +10,9 @@ C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module4\obj\
 C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module4\bin\Debug\Module4.exe
 C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module4\bin\Debug\Module4.pdb
 C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+C:\Users\VanSickle\Documents\Github\Module4\bin\Debug\Module4.exe.config
+C:\Users\VanSickle\Documents\Github\Module4\obj\Debug\Module4.exe
+C:\Users\VanSickle\Documents\Github\Module4\obj\Debug\Module4.pdb
+C:\Users\VanSickle\Documents\Github\Module4\bin\Debug\Module4.exe
+C:\Users\VanSickle\Documents\Github\Module4\bin\Debug\Module4.pdb
+C:\Users\VanSickle\Documents\Github\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache

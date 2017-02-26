@@ -3,7 +3,6 @@
 namespace Module5
 {
     public class Module5
-
     {
             public static void Main(string[] args)
             {
@@ -31,7 +30,6 @@ namespace Module5
                 Console.WriteLine($"The {uProgram1.ProgramName} program contains the {uProgram1.degree.DegreeType} degree");
                 Console.WriteLine($"The {uProgram1.degree.DegreeType} degree contains the course {uProgram1.degree.course.CourseName}");
                 Console.WriteLine($"The {uProgram1.degree.course.CourseName} course contains {Student.studentCount}");
-                Console.ReadLine();
             }         
         }
     }

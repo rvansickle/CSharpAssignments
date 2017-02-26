@@ -3,3 +3,9 @@ C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module5\bin\
 C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module5\bin\Debug\Module5.pdb
 C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module5\obj\Debug\Module5.exe
 C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments\Module5\obj\Debug\Module5.pdb
+C:\Users\VanSickle\Documents\Github\Module5\bin\Debug\Module5.exe.config
+C:\Users\VanSickle\Documents\Github\Module5\obj\Debug\Module5.exe
+C:\Users\VanSickle\Documents\Github\Module5\obj\Debug\Module5.pdb
+C:\Users\VanSickle\Documents\Github\Module5\bin\Debug\Module5.exe
+C:\Users\VanSickle\Documents\Github\Module5\bin\Debug\Module5.pdb
+C:\Users\VanSickle\Documents\Github\Module5\obj\Debug\Module5.csprojResolveAssemblyReference.cache
