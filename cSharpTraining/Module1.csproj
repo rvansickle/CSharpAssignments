@@ -7,7 +7,7 @@
     <ProjectGuid>{5010A362-A86C-45C3-8BFF-3BE02670E2A6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cSharpTraining</RootNamespace>
+    <RootNamespace>Module1</RootNamespace>
     <AssemblyName>Module1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
