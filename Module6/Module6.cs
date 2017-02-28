@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Module5
+namespace Module6
 {
-    public class Module5
+    public class Module6
     {
         public static void Main(string[] args)
         {
@@ -32,4 +32,4 @@ namespace Module5
             Console.WriteLine($"The {uProgram1.degree.course.CourseName} course contains {Student.studentCount}");
         }
     }
- }
+}
