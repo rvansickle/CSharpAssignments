@@ -28,10 +28,7 @@ namespace Module6
         public Student(string firstName, string lastName, DateTime birthday, string addr1, string addr2, string city, string state, string zipCode, string country, string studentID, double studentGPA)
             : base(firstName, lastName,birthday, addr1, addr2, city, state, zipCode, country)
         {            
- //           this.StudentID = studentID;
- //           this.StudentGPA = studentGPA;
-            studentCount++;
-
+             studentCount++;
         }
     }
 }
