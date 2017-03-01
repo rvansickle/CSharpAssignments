@@ -1,0 +1,6 @@
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module6\bin\Debug\Module6.exe.config
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module6\obj\Debug\Module6.csprojResolveAssemblyReference.cache
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module6\bin\Debug\Module6.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module6\bin\Debug\Module6.pdb
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module6\obj\Debug\Module6.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module6\obj\Debug\Module6.pdb

@@ -11,8 +11,8 @@ namespace Module6
             set { _studentID = value; }
         }
 
-        private float _studentGPA;
-        public float StudentGPA
+        private double _studentGPA;
+        public double StudentGPA
         {
             get { return _studentGPA; }
             set { _studentGPA = value; }
@@ -20,24 +20,16 @@ namespace Module6
 
         public void TakeTest()
         {
-            Console.WriteLine("Taking test......");
+            Console.WriteLine($"Student takes a test");
         }
 
         public static int studentCount = 0;
 
-        public Student(string firstName, string lastName, DateTime birthday, string addr1, string addr2, string city, string state, string zipCode, string country, string studentID, float studentGPA)
-        {
-            this.PFirstName = firstName;
-            this.PLastName = lastName;
-            this.PBirthDate = birthday;
-            this.PAddr1 = addr1;
-            this.PAddr2 = addr2;
-            this.PCity = city;
-            this.PState = state;
-            this.PZipCode = zipCode;
-            this.PCountry = country;
-            this.StudentID = studentID;
-            this.StudentGPA = studentGPA;
+        public Student(string firstName, string lastName, DateTime birthday, string addr1, string addr2, string city, string state, string zipCode, string country, string studentID, double studentGPA)
+            : base(firstName, lastName,birthday, addr1, addr2, city, state, zipCode, country)
+        {            
+ //           this.StudentID = studentID;
+ //           this.StudentGPA = studentGPA;
             studentCount++;
 
         }

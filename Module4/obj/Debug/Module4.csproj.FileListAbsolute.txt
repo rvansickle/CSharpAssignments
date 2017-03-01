@@ -16,3 +16,9 @@ C:\Users\VanSickle\Documents\Github\Module4\obj\Debug\Module4.pdb
 C:\Users\VanSickle\Documents\Github\Module4\bin\Debug\Module4.exe
 C:\Users\VanSickle\Documents\Github\Module4\bin\Debug\Module4.pdb
 C:\Users\VanSickle\Documents\Github\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module4\bin\Debug\Module4.exe.config
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module4\bin\Debug\Module4.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module4\bin\Debug\Module4.pdb
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module4\obj\Debug\Module4.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module4\obj\Debug\Module4.pdb

@@ -8,3 +8,9 @@ C:\Users\VanSickle\Documents\Github\Module2\obj\Debug\Module2.exe
 C:\Users\VanSickle\Documents\Github\Module2\obj\Debug\Module2.pdb
 C:\Users\VanSickle\Documents\Github\Module2\bin\Debug\Module2.exe
 C:\Users\VanSickle\Documents\Github\Module2\bin\Debug\Module2.pdb
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module2\bin\Debug\Module2.exe.config
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module2\bin\Debug\Module2.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module2\bin\Debug\Module2.pdb
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module2\obj\Debug\Module2.csprojResolveAssemblyReference.cache
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module2\obj\Debug\Module2.exe
+C:\Users\rvansickle\Documents\GithubPersonalRepos\CSharpAssignments2\Module2\obj\Debug\Module2.pdb
