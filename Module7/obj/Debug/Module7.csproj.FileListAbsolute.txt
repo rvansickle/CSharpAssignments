@@ -1,0 +1,6 @@
+C:\Users\VanSickle\Documents\Github\Module7\bin\Debug\Module7.exe.config
+C:\Users\VanSickle\Documents\Github\Module7\bin\Debug\Module7.exe
+C:\Users\VanSickle\Documents\Github\Module7\bin\Debug\Module7.pdb
+C:\Users\VanSickle\Documents\Github\Module7\obj\Debug\Module7.csprojResolveAssemblyReference.cache
+C:\Users\VanSickle\Documents\Github\Module7\obj\Debug\Module7.exe
+C:\Users\VanSickle\Documents\Github\Module7\obj\Debug\Module7.pdb
