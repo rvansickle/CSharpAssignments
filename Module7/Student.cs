@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Module7
 {
@@ -18,6 +20,13 @@ namespace Module7
             set { _studentGPA = value; }
         }
 
+        private Stack grades = new Stack();
+        public Stack Grades
+        {
+            get { return grades; }
+            set { grades = value; }
+        }
+
         public void TakeTest()
         {
             Console.WriteLine($"Student takes a test");
@@ -25,10 +34,20 @@ namespace Module7
 
         public static int studentCount = 0;
 
-        public Student(string firstName, string lastName, DateTime birthday, string addr1, string addr2, string city, string state, string zipCode, string country, string studentID, double studentGPA)
-            : base(firstName, lastName,birthday, addr1, addr2, city, state, zipCode, country)
+        public Student(string _firstName, string lastName, DateTime birthday, string addr1, string addr2, string city, string state, string zipCode, string country, string studentID, double studentGPA)
+            : base(_firstName, lastName,birthday, addr1, addr2, city, state, zipCode, country)
         {            
              studentCount++;
+        }
+
+        public void GetGrades()
+        {
+            Console.WriteLine($"GGGG Grades for {PFirstName}");
+            //for(int i = 1; i < 6; i++)
+            //{
+            //    Console.WriteLine($"Grade {i.ToString()}");
+            //    grades.Push = Console.ReadLine();
+            //}
         }
     }
 }

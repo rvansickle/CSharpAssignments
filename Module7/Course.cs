@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Module7
 {
@@ -26,11 +28,11 @@ namespace Module7
             set { _courseDuration = value; }
         }
 
-        private Student[] studentArray = new Student[3];
-        public Student[] students
+        private ArrayList studentList = new ArrayList();
+        public ArrayList Students
         {
-            get { return studentArray; }
-            set { studentArray = value; }
+            get { return studentList; }
+            set { studentList = value; }
         }
 
         private Teacher[] teacherArray = new Teacher[3];
@@ -45,6 +47,19 @@ namespace Module7
             this.CourseName = courseName;
             this.CourseCredits = courseCredits;
             this.CourseDuration = courseDuration;
+        }
+
+        public void ListStudents()
+        {
+            foreach (Student stu in this.Students)
+            {
+                Console.Write($"The grades for {stu.PFirstName} {stu.PLastName} are ");
+                foreach (double gt in stu.Grades)
+                {
+                    Console.Write($"{gt.ToString()} ");
+                }
+            Console.WriteLine();
+            }
         }
     }
 }
